@@ -39,3 +39,6 @@ Acknowledgements 🙏
 Special thanks to the contributors of the datasets and libraries used in this project.
 
 ![image](https://github.com/Aaditya-Mishra1/Fuel-Efficiency-Prediction-to-Reduce-Carbon-Emmision/assets/82424609/d36aa157-b75f-42aa-8e59-3a18a92232b3)
+
+![image](https://github.com/Aaditya-Mishra1/Fuel-Efficiency-Prediction-to-Reduce-Carbon-Emmision/assets/82424609/255647d9-dbff-4faa-8c09-df3a481b11bc)
+
