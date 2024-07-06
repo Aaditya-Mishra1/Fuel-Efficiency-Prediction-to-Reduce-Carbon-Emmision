@@ -29,6 +29,8 @@ You can use the provided Model Run.bat file to automate the process of running t
 
 # Contribution 🤝
 Contributions are welcome! Feel free to open issues or submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+![image](https://github.com/Aaditya-Mishra1/Fuel-Efficiency-Prediction-to-Reduce-Carbon-Emmision/assets/82424609/d36aa157-b75f-42aa-8e59-3a18a92232b3)
+
 
 License 📜
 This project is licensed under the MIT License - see the LICENSE file for details.
